@@ -1,0 +1,2 @@
+class UserAnatomyModulesController < ApplicationController
+end
